@@ -26,7 +26,7 @@ function App() {
      testimonios='Simempre me ha gustado crear paginas de alto nivel con una presencia de código'
     />
     <Testimonios
-    nombre='Juan'
+    nombre='Juanito'
     pais='Venezuela'
     imagen='juan'
     cargo='Desarrolador front-end'

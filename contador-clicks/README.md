@@ -1,6 +1,7 @@
 
-# Contador de Clicks
-Este proyecto es una sencilla aplicación de contador de clicks desarrollada en React. Permite al usuario realizar clicks en dos botones diferentes: uno para incrementar el contador y otro para reiniciarlo.
+#  Contador de Clics (Componentes de Clase)
+
+¡Hola! Esta es una aplicación desarrollada con React, un contador de clics interactivo en el cual puedes hacer clic en un botón para incrementar el contador y reiniciar el contador con otro botón. Se usó componentes de clase para explicar cómo convertir componentes funcionales a componentes de clase.
 
 ## Tecnologías utilizadas
 
